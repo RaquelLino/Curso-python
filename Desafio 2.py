@@ -1,0 +1,5 @@
+dia = input('Qual o dia você nasceu?')
+mes = input('Qual o mês de nascimento?')
+ano =input('Qual o ano de nascimento?')
+print(dia + '/' + mes + '/' + ano)
+print(f'{dia}/{mes}/{ano}')
